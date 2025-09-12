@@ -25,8 +25,8 @@ export const zappicon = plugin.withOptions<IconPluginOptions>(
         for (const variant of icon.variants) {
           const svg = nodeToString(variant.svg)
           const dataUrl = svgToDataUrl(svg)
-
           const key = `${icon.name}-${variant.variant}`
+
           components[key] = {
             display: "inline-block",
             width: "1em",
