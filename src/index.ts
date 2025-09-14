@@ -9,7 +9,7 @@ interface IconPluginOptions {
 }
 
 const defaultOptions: IconPluginOptions = {
-  prefix: "zi",
+  prefix: "za",
   size: "1rem",
   color: "currentColor",
 }

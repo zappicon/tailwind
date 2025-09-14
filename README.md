@@ -40,7 +40,7 @@ pnpm add @zappicon/tailwind
 
 /* with options */
 @plugin "zappicon-tailwind" {
-  prefix: "zi";
+  prefix: "za";
   size: "1em";
   color: "orange";
 }
@@ -56,7 +56,7 @@ const { zappicon } = require("zappicon-tailwind")
 module.exports = {
   plugins: [
     zappicon({
-      prefix: "zi",
+      prefix: "za",
       size: "1em",
       color: "orange",
     }),
@@ -69,7 +69,7 @@ module.exports = {
 You can also use icon classes in your markup (HTML, JSX, etc.):
 
 ```html
-<i class="zi-star-regular text-blue-500 w-6 h-6"></i>
+<i class="za-star-regular text-blue-500 w-6 h-6"></i>
 ```
 
 ## Icon Styles (Variants)
@@ -78,19 +78,19 @@ Each icon comes in 5 styles:
 
 | Style        | Variant value  | Example class          |
 | ------------ | -------------- | ---------------------- |
-| Filled       | `filled`       | `zi-star-filled`       |
-| Regular      | `regular`      | `zi-star-regular`      |
-| Light        | `light`        | `zi-star-light`        |
-| Duotone      | `duotone`      | `zi-star-duotone`      |
-| Duotone Line | `duotone-line` | `zi-star-duotone-line` |
+| Filled       | `filled`       | `za-star-filled`       |
+| Regular      | `regular`      | `za-star-regular`      |
+| Light        | `light`        | `za-star-light`        |
+| Duotone      | `duotone`      | `za-star-duotone`      |
+| Duotone Line | `duotone-line` | `za-star-duotone-line` |
 
 ## Customization
 
 Use Tailwind utilities to customize icon size, color, and more:
 
 ```html
-<i class="zi-star-regular text-2xl text-yellow-500"></i>
-<i class="zi-star-filled w-8 h-8 text-pink-600"></i>
+<i class="za-star-regular text-yellow-500"></i>
+<i class="za-star-filled w-8 h-8 text-pink-600"></i>
 ```
 
 ## Support
