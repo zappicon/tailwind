@@ -1,7 +1,17 @@
+<p align="center">
+  <picture>
+    <source width="460" media="(prefers-color-scheme: dark)" srcset="https://zappicon.com/assets/frameworks/zappicon-tailwind-dark.svg">
+    <source width="460" media="(prefers-color-scheme: light)" srcset="https://zappicon.com/assets/frameworks/zappicon-tailwind.svg">
+    <img width="460" alt="zappicon tailwind css plugin" src="https://zappicon.com/assets/frameworks/zappicon-tailwind.svg">
+  </picture>
+</p>
+
 # Zappicon Tailwind CSS Plugin
 
 [![npm version](https://badge.fury.io/js/%40zappicon%2Ftailwind.svg)](https://badge.fury.io/js/%40zappicon%2Ftailwind)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://zappicon.com/license)
+
+[![Demo](https://zappicon.com/images/og-image-zappicon.jpg)](https://zappicon.com)
 
 A Tailwind CSS plugin for seamless integration of Zappicon's free & premium UI icon library into your Tailwind projects.
 
