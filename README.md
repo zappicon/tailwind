@@ -1,9 +1,21 @@
-<p align="center">
+<p align="center" style="margin: 2rem 0;">
   <picture>
-    <source width="460" media="(prefers-color-scheme: dark)" srcset="https://zappicon.com/assets/frameworks/zappicon-tailwind-dark.svg">
-    <source width="460" media="(prefers-color-scheme: light)" srcset="https://zappicon.com/assets/frameworks/zappicon-tailwind.svg">
-    <img width="460" alt="zappicon tailwind css plugin" src="https://zappicon.com/assets/frameworks/zappicon-tailwind.svg">
+    <source width="320" media="(prefers-color-scheme: dark)" srcset="https://zappicon.com/assets/frameworks/zappicon-tailwind-dark.svg">
+    <source width="320" media="(prefers-color-scheme: light)" srcset="https://zappicon.com/assets/frameworks/zappicon-tailwind.svg">
+    <img width="320" alt="zappicon vue plugin" src="https://zappicon.com/assets/frameworks/zappicon-tailwind.svg">
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://zappicon.com/">About</a>
+  ·
+  <a href="https://zappicon.com/icons/">Icons</a>
+  ·
+  <a href="https://zappicon.com/packages">Packages</a>
+  ·
+  <a href="https://zappicon.com/license">License</a>
+  ·
+  <a href="https://zappicon.com/contact">Support</a>
 </p>
 
 # Zappicon Tailwind CSS Plugin
@@ -11,14 +23,22 @@
 [![npm version](https://badge.fury.io/js/%40zappicon%2Ftailwind.svg)](https://badge.fury.io/js/%40zappicon%2Ftailwind)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://zappicon.com/license)
 
-[![Demo](https://zappicon.com/images/og-image-zappicon.jpg)](https://zappicon.com)
+A Tailwind CSS plugin for seamless integration of Zappicon's free and premium UI icon library into your Tailwind projects.
 
-A Tailwind CSS plugin for seamless integration of Zappicon's free & premium UI icon library into your Tailwind projects.
+- 2,000+ Free icons (400+ Icons × 5 Styles).
+- 5 Styles Available (Light, Regular, Filled, Duotone, Duotone Line).
+- Unified keyline shapes on a 24×24 px grid.
+- Easy customization of colors, sizes, and styles using Tailwind utilities.
+  
+>  **Pro Version**  with 23,000+ icons coming soon.
 
-- 11,000+ Free icons (220+ Icons × 5 Styles)
-- 5 Styles Available (Light, Regular, Filled, Duotone, Duotone Line)
-- Unified keyline shapes on a 24×24 px grid
-- Easy customization of colors, sizes, and styles using Tailwind utilities
+<a href="https://zappicon.com">
+  <img 
+    src="https://zappicon.com/images/og-image-zappicon.jpg" 
+    alt="Zappicon - Free UI icons library"
+    style="border: 1px solid #d1d9e0;"
+  >
+</a>
 
 ## Features
 
